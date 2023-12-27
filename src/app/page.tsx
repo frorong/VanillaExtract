@@ -1,3 +1,5 @@
+import { test } from "@/styles";
+
 export default function Home() {
-  return <div></div>;
+  return <div className={test}></div>;
 }
